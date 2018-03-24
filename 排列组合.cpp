@@ -11,6 +11,8 @@
 输出样例:
 result = 21
 */
+//排列组合问题。
+//排列组合公式  递归的简单应用
 #include <stdio.h>
 #include<string.h>
 #include<iostream>
@@ -32,4 +34,4 @@ int main()
     return 0;  
 }  
   
-//排列组合公式  递归的简单应用
+

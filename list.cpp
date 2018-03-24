@@ -18,7 +18,7 @@
 输出样例:
 1 4 5 7 8 10
 */
-
+//从数组中删除元素并依次移动元素的位置，首先想到链式存储结构。使用stl库中的list数组
 #include <iostream>
 #include <string.h>
 #include <algorithm>

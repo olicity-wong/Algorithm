@@ -17,6 +17,8 @@
 输出样例:
 False
 */
+
+//匹配问题，压栈弹栈判断是否匹配
 #include <stdio.h>
 #include <stack>
 #include <iostream>
